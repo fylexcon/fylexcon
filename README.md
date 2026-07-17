@@ -15,4 +15,4 @@ I'm a Full-Stack Developer and Computer Engineering student specializing in scal
 - **Exploring:** Quantum Computing (Qiskit, Trotter decomposition)
 
 ### 📈 GitHub Stats
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=fylexcon&show_icons=true&theme=radium)
+[![GitHub Stats](https://streak-stats.demolab.com/?user=fylexcon&theme=tokyonight&hide_border=true)](https://github.com/fylexcon)
