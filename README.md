@@ -13,6 +13,3 @@ I'm a Full-Stack Developer and Computer Engineering student specializing in scal
 - **Backend:** Spring Framework, FastAPI, Django
 - **Databases & DevOps:** PostgreSQL, MongoDB, Docker, Linux
 - **Exploring:** Quantum Computing (Qiskit, Trotter decomposition)
-
-### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fylexcon&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/fylexcon)
