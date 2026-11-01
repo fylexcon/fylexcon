@@ -38,6 +38,7 @@ I build full-stack products end to end, from the database schema to the mobile c
 
 | | | |
 |:--|:--|--:|
+| **Co-founder** | Trellis · non-custodial family USDC vault on Solana; Next.js dashboard, Anchor program, devnet deployment | `2026–` |
 | **Software developer** | Caladrius · React and TypeScript front ends for AI-driven SaaS products | `2025–` |
 | **Vice president** | IEEE İnönü Student Branch · 100+ members; previously Computer Society chair, ran Python, data science and ML workshops | `2025–` |
 | **Competitions** | NASA Space Apps (NOCTIS ORBIT) · Teknofest (ROS 2 perception on Jetson Orin Nano) · TUA lunar programme (Moon-Rover) | |

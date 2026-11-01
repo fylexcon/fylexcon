@@ -424,7 +424,7 @@ def motif_fylex():
 
 
 CARDS = {
-    "trellis": ("Trellis", "solana · co-builder", "A family USDC vault on Solana. The program enforces payee lists, daily limits, a 48-hour cooldown and guardian approvals; web, desktop and kiosk apps only talk to it.", ["Rust", "Anchor", "Next.js", "Tauri"], motif_trellis, CYAN),
+    "trellis": ("Trellis", "solana · co-founder", "A family USDC vault on Solana. The program enforces payee lists, daily limits, a 48-hour cooldown and guardian approvals; web, desktop and kiosk apps only talk to it.", ["Rust", "Anchor", "Next.js", "Tauri"], motif_trellis, CYAN),
     "quantlab": ("Quant Quantum Lab", "research · qaoa", "Vectorised backtests for SMA-RSI trend strategies without look-ahead bias, plus small portfolio selection solved with QAOA on Qiskit.", ["Python", "Qiskit", "pandas"], motif_qaoa, VIOLET),
     "quantvantage": ("QuantVantage AI", "fintech · nlp", "An n8n pipeline reads financial news, Gemini scores sentiment per ticker, and a PyTorch model forecasts short-term moves for AAPL, IONQ and crypto.", ["Next.js", "FastAPI", "PyTorch", "n8n"], motif_sentiment, AMBER),
     "noctis": ("NOCTIS ORBIT", "nasa space apps · team", "SAR change detection on Sentinel-1 that runs entirely in the browser: Otsu thresholding, morphology and an ONNX model, drawn on a Leaflet map.", ["TypeScript", "ONNX", "Leaflet"], motif_sar, CYAN),
