@@ -1,11 +1,11 @@
-<a href="https://fylexcon.github.io">
+<a href="https://mehmetselimsuna.com">
   <img src="./assets/header.svg" width="100%" alt="Mehmet Selim Suna: full-stack developer and computer engineering student" />
 </a>
 
 <p align="center">
-  <a href="https://fylexcon.github.io"><img src="https://img.shields.io/badge/Portfolio-4fd1c5?style=for-the-badge&logo=googlechrome&logoColor=0b0f14" alt="Portfolio" /></a>
+  <a href="https://mehmetselimsuna.com"><img src="https://img.shields.io/badge/Portfolio-4fd1c5?style=for-the-badge&logo=googlechrome&logoColor=0b0f14" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mehmetselimsuna"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBiMGYxNCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOTEzIDEuNjM3LTEuODQ3IDMuMzctMS44NDcgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
-  <a href="https://fylexcon.github.io/cv.pdf"><img src="https://img.shields.io/badge/CV-ffb547?style=for-the-badge&logo=readthedocs&logoColor=0b0f14" alt="CV" /></a>
+  <a href="https://mehmetselimsuna.com/cv.pdf"><img src="https://img.shields.io/badge/CV-ffb547?style=for-the-badge&logo=readthedocs&logoColor=0b0f14" alt="CV" /></a>
   <a href="mailto:mehmetselimsuna@gmail.com"><img src="https://img.shields.io/badge/Email-e6edf3?style=for-the-badge&logo=gmail&logoColor=0b0f14" alt="Email" /></a>
 </p>
 
